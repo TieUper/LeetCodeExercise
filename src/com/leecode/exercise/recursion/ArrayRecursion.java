@@ -6,9 +6,9 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * 77. 组合
+ * 回溯法递归
  */
-public class Combine {
+public class ArrayRecursion {
 
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
